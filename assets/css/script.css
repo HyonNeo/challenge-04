@@ -1,0 +1,30 @@
+* {
+    font-family: 'Montserrat', sans-serif;
+}
+
+#welcome, #quiz, #inputScore, #highScores {
+    width: 70%;
+}
+
+#quiz, #inputScore, #highScores {
+    display: ;
+}
+
+.jumbotron {
+    background-color: white;
+}
+
+#welcome {
+   background-color: lightgrey;
+}
+
+#quiz {
+    background-color: lightgray;
+}
+#inputScore {
+    background-color: lightgoldenrodyellow;
+}
+
+#highScores {
+    background-color: lightcyan;
+}
