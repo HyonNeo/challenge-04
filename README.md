@@ -10,10 +10,10 @@ The page to see the web is :https://hyonneo.github.io/challenge-3/
 
 ## Usage
 
-![image](../challenge-04/assets/images/Screenshot%20(101).png)
-![image](../challenge-04/assets/images/Screenshot%20(102).png)
-![image](../challenge-04/assets/images/Screenshot%20(103).png)
-![image](../challenge-04/assets/images/Screenshot%20(104).png)
+![image](./assets/images/Screenshot%20(101).png)
+![image](./assets/images/Screenshot%20(102).png)
+![image](./assets/images/Screenshot%20(103).png)
+![image](./assets/images/Screenshot%20(104).png)
 ## Credits
 
 Thank you to the TA for letting tips in the slack channel
